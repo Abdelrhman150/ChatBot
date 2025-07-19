@@ -1,0 +1,44 @@
+Cristiano Ronaldo
+Portuguese,AlNassr,Forward,7,Ballon d'Or 2008
+
+Lionel Messi
+Argentinian,Miami,Forward,10,Ballon d'Or 2023
+
+Mohamed Salah
+Egyptian,Liverpool,Right Wing,11,African Player of the Year 2018
+
+Mbappé
+French,Real Madrid,Striker,7,FIFA World Cup Winner 2018
+
+Neymar
+Brazilian,PSG,Left Wing,10,Olympic Gold Medal 2016
+
+Karim Benzema
+French,Al Ittihad,Striker,9,Ballon d'Or 2022
+
+Luka Modric
+Croatian,Real Madrid,Midfielder,10,Ballon d'Or 2018
+
+Erling Haaland
+Norwegian,Manchester City,Striker,9,Premier League Golden Boot 2023
+
+Robert Lewandowski
+Polish,Barcelona,Striker,9,European Golden Shoe 2021
+
+Zlatan Ibrahimovic
+Swedish,AC Milan,Striker,11,FIFA Puskás Award 2013
+
+Harry Kane
+English,Bayern Munich,Striker,9,England Player of the Year 2021
+
+Sadio Mané
+Senegalese,AlNassr,Left Wing,10,African Player of the Year 2019
+
+Kevin De Bruyne
+Belgian,Manchester City,Midfielder,17,Premier League Playmaker Award 2023
+
+Vinicius Jr.
+Brazilian,Real Madrid,Left Wing,7,UEFA Champions League Winner 2022
+
+Riyad Mahrez
+Algerian,Al Ahli,Right Wing,26,Premier League Winner 2019

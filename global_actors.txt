@@ -1,0 +1,30 @@
+Guess me (American, Titanic, Drama, Male, Famous, Hollywood, Blonde)
+Leonardo DiCaprio
+Guess me (Egyptian, Mr. Robot, Action, Male, Young, Famous)
+Rami Malek
+Guess me (British, Mr. Bean, Comedy, Male, Funny, TV Star)
+Rowan Atkinson
+Guess me (French, Leon, Action, Male, Serious, Classic Actor)
+Jean Reno
+Guess me (American, Men in Black, Drama, Action, Male, Funny, Hollywood)
+Will Smith
+Guess me (American, Forrest Gump, Drama, Male, Famous, Friendly)
+Tom Hanks
+Guess me (American, Pirates, Fantasy, Male, Popular, Unique)
+Johnny Depp
+Guess me (American, Fight Club, Drama, Male, Famous, Stylish)
+Brad Pitt
+Guess me (Canadian, John Wick, Action, Male, Cool, Popular)
+Keanu Reeves
+Guess me (American, Iron Man, Sci-Fi, Male, Famous, Marvel)
+Robert Downey Jr.
+Guess me (Australian, Thor, Action, Male, Marvel, Strong)
+Chris Hemsworth
+Guess me (Canadian, Deadpool, Comedy, Male, Funny, Marvel)
+Ryan Reynolds
+Guess me (American, The Martian, Drama, Male, Realistic, Hollywood)
+Matt Damon
+Guess me (British, Harry Potter, Fantasy, Male, Famous, Young)
+Daniel Radcliffe
+Guess me (British, Batman, Drama, Male, Serious, Dark)
+Christian Bale

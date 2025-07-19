@@ -1,0 +1,21 @@
+Is the instructor in the room with us?
+in the room
+
+Does the instructor teach Scala?
+Scala
+Does the instructor teach Advanced Programming?
+Advanced Programming
+
+Is the instructor a Professor?
+Professor
+Is the instructor a Teaching Assistant?
+Teaching Assistant
+
+Is the instructor technical?
+Technical
+Is the instructor supportive?
+Supportive
+Is the instructor experienced?
+Experienced
+Is the instructor analytical?
+Analytical

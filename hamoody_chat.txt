@@ -1,0 +1,36 @@
+
+=== New Session: 2025-05-18 15:30:31 ===
+[2025-05-18 15:30:31] System: User registered successfully
+
+=== New Session: 2025-05-18 15:33:45 ===
+[2025-05-18 15:33:45] System: User logged in successfully
+
+=== New Session: 2025-05-18 15:36:17 ===
+[2025-05-18 15:36:17] System: User logged in successfully
+
+=== New Session: 2025-05-18 15:42:37 ===
+[2025-05-18 15:42:37] System: User logged in successfully
+
+=== New Session: 2025-05-18 16:21:01 ===
+[2025-05-18 16:21:01] System: User logged in successfully
+
+=== New Session: 2025-05-18 17:10:31 ===
+[2025-05-18 17:10:31] System: User logged in successfully
+
+=== New Session: 2025-05-18 17:46:59 ===
+[2025-05-18 17:46:59] System: User logged in successfully
+
+=== New Session: 2025-05-18 19:56:38 ===
+[2025-05-18 19:56:38] System: User logged in successfully
+
+=== New Session: 2025-05-18 20:01:52 ===
+[2025-05-18 20:01:52] System: User logged in successfully
+[2025-05-18 20:06:37] hamoody: Selected menu option: 1
+[2025-05-18 20:06:41] hamoody: Started quiz: Scientists
+[2025-05-18 20:07:05] System: Cancelled quiz: Scientists
+
+=== New Session: 2025-05-19 11:25:20 ===
+[2025-05-19 11:25:20] System: User logged in successfully
+
+=== New Session: 2025-05-19 11:28:10 ===
+[2025-05-19 11:28:10] System: User logged in successfully

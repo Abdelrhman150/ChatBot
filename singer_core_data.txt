@@ -1,0 +1,59 @@
+Adele  
+British,Hello,Someone Like You,English,Female,Emotional,Famous,Chubby
+
+Amr Diab  
+Egyptian,Tamally Maak,Leily Nahary,Arabic,Male,Romantic,Pop,Tan
+
+The Weekend  
+Canadian,Blinding Lights,Starboy,English,Male,Modern,Pop,Curly
+
+Nancy Ajram  
+Lebanese,Ah W Noss,Yay,Arabic,Female,Famous,Pop,Petite
+
+Michael Jackson  
+American,Thriller,Billie Jean,English,Male,Legend,Pop,Light-skinned
+
+Elissa  
+Lebanese,Ayshalak,Betmoun,Arabic,Female,Romantic,Famous,Stylish
+
+Tamer Hosny  
+Egyptian,180 Daraga,Kol Marra,Arabic,Male,Modern,Pop,Beard
+
+Shakira  
+Colombian,Waka Waka,Hips Don’t Lie,English,Female,Dance,Famous,Curly
+
+Rihanna  
+Barbadian,Diamonds,Work,English,Female,Modern,R&B,Tattooed
+
+Ed Sheeran  
+British,Shape of You,Perfect,English,Male,Pop,Guitar,Redhead
+
+Wael Kfoury  
+Lebanese,Omri Kello,Set El Kel,Arabic,Male,Classic,Romantic,Bearded
+
+Miley Cyrus  
+American,Wrecking Ball,Flowers,English,Female,Pop,Bold,Short Hair
+
+Hamaki  
+Egyptian,Mabrook,Ahsan Haga,Arabic,Male,Modern,Romantic,Casual
+
+Beyoncé  
+American,Halo,Single Ladies,English,Female,Famous,Powerful Voice,Tall
+
+Asala Nasri  
+Syrian,Aktar,Shakhs Tani,Arabic,Female,Emotional,Strong Voice,Elegant
+
+Mohamed Mounir  
+Egyptian,Shababeek,Ahl El Arab,Arabic,Male,Legend,Folk,Casual
+
+Taylor Swift  
+American,Lover,Blank Space,English,Female,Pop,Famous,Blonde
+
+Sherine  
+Egyptian,Mashaaer,Hobbo Ganna,Arabic,Female,Romantic,Strong Voice,Curvy
+
+Samira Said  
+Moroccan,Youm Wara Youm,Al Bal,Arabic,Female,Classic,Famous,Graceful
+
+Billie Eilish  
+American,Bad Guy,Everything I Wanted,English,Female,Modern,Unique,Green Hair

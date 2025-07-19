@@ -1,0 +1,951 @@
+[2025-05-18 15:33:50] Received user input: 'hello'
+[2025-05-18 15:33:50] Generating response for user input
+[2025-05-18 15:33:50] generateResponse called with query: 'hello'
+[2025-05-18 15:33:50] Parsing input: 'hello'
+[2025-05-18 15:33:50] Parsed into: List(hello)
+[2025-05-18 15:33:50] handleUserInput called with: List(hello)
+[2025-05-18 15:33:50] Matched greeting pattern
+[2025-05-18 15:33:52] Response generated: 'Hello ! How can I help you today?', startGame: false
+[2025-05-18 15:33:52] Response generated: 'Hello ! How can I help you today?', startGame=false
+[2025-05-18 15:34:03] Received user input: 'lets play a game'
+[2025-05-18 15:34:03] Generating response for user input
+[2025-05-18 15:34:03] generateResponse called with query: 'lets play a game'
+[2025-05-18 15:34:03] Parsing input: 'lets play a game'
+[2025-05-18 15:34:03] Parsed into: List(lets, play, a, game)
+[2025-05-18 15:34:03] handleUserInput called with: List(lets, play, a, game)
+[2025-05-18 15:34:03] Matched game/play/start pattern
+[2025-05-18 15:34:04] Response generated: 'Alright ! Let's start the game!', startGame: true
+[2025-05-18 15:34:04] Response generated: 'Alright ! Let's start the game!', startGame=true
+[2025-05-18 15:34:04] Starting game sequence
+[2025-05-18 15:34:04] Asking questions to identify character
+[2025-05-18 15:34:04] Starting askQuestions with categories
+[2025-05-18 15:34:04] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:34:04] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:34:34] User answered: no
+[2025-05-18 15:34:34] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:34:34] Starting askQuestions with categories
+[2025-05-18 15:34:34] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:34:34] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:34:39] User answered: no
+[2025-05-18 15:34:39] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 15:34:39] Starting askQuestions with categories
+[2025-05-18 15:34:39] Processing category: Let me guess… is it an Instructor
+[2025-05-18 15:34:39] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 15:35:35] User answered: no
+[2025-05-18 15:35:35] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 15:35:35] Starting askQuestions with categories
+[2025-05-18 15:35:35] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 15:35:35] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 15:36:23] Received user input: 'hi!'
+[2025-05-18 15:36:23] Generating response for user input
+[2025-05-18 15:36:23] generateResponse called with query: 'hi!'
+[2025-05-18 15:36:23] Parsing input: 'hi!'
+[2025-05-18 15:36:23] Parsed into: List(hi!)
+[2025-05-18 15:36:23] handleUserInput called with: List(hi!)
+[2025-05-18 15:36:23] No pattern matched, using default response
+[2025-05-18 15:36:24] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 15:36:24] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 15:36:27] Received user input: 'hi'
+[2025-05-18 15:36:27] Generating response for user input
+[2025-05-18 15:36:27] generateResponse called with query: 'hi'
+[2025-05-18 15:36:27] Parsing input: 'hi'
+[2025-05-18 15:36:27] Parsed into: List(hi)
+[2025-05-18 15:36:28] handleUserInput called with: List(hi)
+[2025-05-18 15:36:28] Matched greeting pattern
+[2025-05-18 15:36:29] Response generated: 'Hello ! How can I help you today?', startGame: false
+[2025-05-18 15:36:29] Response generated: 'Hello ! How can I help you today?', startGame=false
+[2025-05-18 15:36:38] Received user input: 'lets play a game'
+[2025-05-18 15:36:38] Generating response for user input
+[2025-05-18 15:36:38] generateResponse called with query: 'lets play a game'
+[2025-05-18 15:36:38] Parsing input: 'lets play a game'
+[2025-05-18 15:36:38] Parsed into: List(lets, play, a, game)
+[2025-05-18 15:36:38] handleUserInput called with: List(lets, play, a, game)
+[2025-05-18 15:36:38] Matched game/play/start pattern
+[2025-05-18 15:36:40] Response generated: 'Alright ! Let's start the game!', startGame: true
+[2025-05-18 15:36:40] Response generated: 'Alright ! Let's start the game!', startGame=true
+[2025-05-18 15:36:40] Starting game sequence
+[2025-05-18 15:36:40] Asking questions to identify character
+[2025-05-18 15:36:40] Starting askQuestions with categories
+[2025-05-18 15:36:40] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:36:40] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:36:48] User answered: no
+[2025-05-18 15:36:48] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:36:48] Starting askQuestions with categories
+[2025-05-18 15:36:48] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:36:48] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:36:51] User answered: yes
+[2025-05-18 15:36:51] User selected category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:38:40] Character identified: Billie Eilish
+[2025-05-18 15:39:13] Play again input: 'yes'
+[2025-05-18 15:39:13] Player chose to play again
+[2025-05-18 15:39:13] Asking questions to identify character
+[2025-05-18 15:39:13] Starting askQuestions with categories
+[2025-05-18 15:39:13] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:39:13] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:39:48] User answered: yes
+[2025-05-18 15:39:48] User selected category: Are you thinking about an Arab Actor
+[2025-05-18 15:40:05] Character identified: Mohamed Henedy
+[2025-05-18 15:40:14] Play again input: 'yes'
+[2025-05-18 15:40:14] Player chose to play again
+[2025-05-18 15:40:14] Asking questions to identify character
+[2025-05-18 15:40:14] Starting askQuestions with categories
+[2025-05-18 15:40:14] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:40:14] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:40:24] User answered: no
+[2025-05-18 15:40:24] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:40:24] Starting askQuestions with categories
+[2025-05-18 15:40:24] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:40:24] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:40:28] User answered: no
+[2025-05-18 15:40:28] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 15:40:28] Starting askQuestions with categories
+[2025-05-18 15:40:28] Processing category: Let me guess… is it an Instructor
+[2025-05-18 15:40:28] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 15:40:36] User answered: no
+[2025-05-18 15:40:36] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 15:40:36] Starting askQuestions with categories
+[2025-05-18 15:40:36] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 15:40:36] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 15:41:12] User answered: no
+[2025-05-18 15:41:12] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 15:41:12] Starting askQuestions with categories
+[2025-05-18 15:41:12] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:41:12] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:41:26] User answered: no
+[2025-05-18 15:41:26] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 15:41:26] Starting askQuestions with categories
+[2025-05-18 15:41:26] Processing category: Wait… are we talking about an Anime
+[2025-05-18 15:41:26] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 15:41:28] User answered: yes
+[2025-05-18 15:41:28] User selected category: Wait… are we talking about an Anime
+[2025-05-18 15:42:52] Received user input: 'who are you'
+[2025-05-18 15:42:52] Generating response for user input
+[2025-05-18 15:42:52] generateResponse called with query: 'who are you'
+[2025-05-18 15:42:52] Parsing input: 'who are you'
+[2025-05-18 15:42:52] Parsed into: List(who, are, you)
+[2025-05-18 15:42:52] handleUserInput called with: List(who, are, you)
+[2025-05-18 15:42:52] Matched 'who are you' pattern
+[2025-05-18 15:42:54] Response generated: 'I am a chatbot here to play the game 'Guess Who I Am!' You can either play a guessing game where I try to guess what you're thinking, or take a fun quiz where you answer my questions!', startGame: false
+[2025-05-18 15:42:54] Response generated: 'I am a chatbot here to play the game 'Guess Who I Am!' You can either play a guessing game where I try to guess what you're thinking, or take a fun quiz where you answer my questions!', startGame=false
+[2025-05-18 15:43:30] Received user input: 'guessing'
+[2025-05-18 15:43:30] Generating response for user input
+[2025-05-18 15:43:30] generateResponse called with query: 'guessing'
+[2025-05-18 15:43:30] Parsing input: 'guessing'
+[2025-05-18 15:43:30] Parsed into: List(guessing)
+[2025-05-18 15:43:30] handleUserInput called with: List(guessing)
+[2025-05-18 15:43:30] No pattern matched, using default response
+[2025-05-18 15:43:31] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 15:43:31] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 15:43:37] Received user input: 'guess'
+[2025-05-18 15:43:37] Generating response for user input
+[2025-05-18 15:43:37] generateResponse called with query: 'guess'
+[2025-05-18 15:43:37] Parsing input: 'guess'
+[2025-05-18 15:43:37] Parsed into: List(guess)
+[2025-05-18 15:43:37] handleUserInput called with: List(guess)
+[2025-05-18 15:43:37] No pattern matched, using default response
+[2025-05-18 15:43:38] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 15:43:38] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 15:43:52] Received user input: 'lets play a guessing game'
+[2025-05-18 15:43:52] Generating response for user input
+[2025-05-18 15:43:52] generateResponse called with query: 'lets play a guessing game'
+[2025-05-18 15:43:52] Parsing input: 'lets play a guessing game'
+[2025-05-18 15:43:52] Parsed into: List(lets, play, a, guessing, game)
+[2025-05-18 15:43:52] handleUserInput called with: List(lets, play, a, guessing, game)
+[2025-05-18 15:43:52] Matched game/play/start pattern
+[2025-05-18 15:43:53] Response generated: 'Alright ! Let's start the game!', startGame: true
+[2025-05-18 15:43:53] Response generated: 'Alright ! Let's start the game!', startGame=true
+[2025-05-18 15:43:53] Starting game sequence
+[2025-05-18 15:43:53] Asking questions to identify character
+[2025-05-18 15:43:53] Starting askQuestions with categories
+[2025-05-18 15:43:53] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:43:53] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:44:08] User answered: no
+[2025-05-18 15:44:08] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:44:08] Starting askQuestions with categories
+[2025-05-18 15:44:08] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:44:08] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:44:09] User answered: no
+[2025-05-18 15:44:09] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 15:44:09] Starting askQuestions with categories
+[2025-05-18 15:44:09] Processing category: Let me guess… is it an Instructor
+[2025-05-18 15:44:09] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 15:44:12] User answered: no
+[2025-05-18 15:44:12] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 15:44:12] Starting askQuestions with categories
+[2025-05-18 15:44:12] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 15:44:12] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 15:44:14] User answered: no
+[2025-05-18 15:44:14] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 15:44:14] Starting askQuestions with categories
+[2025-05-18 15:44:14] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:44:14] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:44:17] User answered: yes
+[2025-05-18 15:44:17] User selected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:45:17] Character identified: SpongeBob
+[2025-05-18 15:45:23] Play again input: 'yes'
+[2025-05-18 15:45:23] Player chose to play again
+[2025-05-18 15:45:23] Asking questions to identify character
+[2025-05-18 15:45:23] Starting askQuestions with categories
+[2025-05-18 15:45:23] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:45:23] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:45:29] User answered: yes
+[2025-05-18 15:45:29] User selected category: Are you thinking about an Arab Actor
+[2025-05-18 15:47:11] Character identified: Ahmed Helmy
+[2025-05-18 15:47:25] Play again input: 'yes'
+[2025-05-18 15:47:25] Player chose to play again
+[2025-05-18 15:47:25] Asking questions to identify character
+[2025-05-18 15:47:25] Starting askQuestions with categories
+[2025-05-18 15:47:25] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:47:25] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:47:26] User answered: no
+[2025-05-18 15:47:26] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:47:26] Starting askQuestions with categories
+[2025-05-18 15:47:27] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:47:27] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:47:31] User answered: yes
+[2025-05-18 15:47:31] User selected category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:49:08] Character identified: The Weekend
+[2025-05-18 15:50:06] Play again input: 'yes'
+[2025-05-18 15:50:06] Player chose to play again
+[2025-05-18 15:50:06] Asking questions to identify character
+[2025-05-18 15:50:06] Starting askQuestions with categories
+[2025-05-18 15:50:06] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:50:06] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:50:09] User answered: no
+[2025-05-18 15:50:09] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:50:09] Starting askQuestions with categories
+[2025-05-18 15:50:09] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:50:09] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:50:09] User answered: no
+[2025-05-18 15:50:09] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 15:50:09] Starting askQuestions with categories
+[2025-05-18 15:50:09] Processing category: Let me guess… is it an Instructor
+[2025-05-18 15:50:09] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 15:50:10] User answered: no
+[2025-05-18 15:50:10] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 15:50:10] Starting askQuestions with categories
+[2025-05-18 15:50:10] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 15:50:10] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 15:50:12] User answered: no
+[2025-05-18 15:50:12] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 15:50:12] Starting askQuestions with categories
+[2025-05-18 15:50:12] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:50:12] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:50:14] User answered: no
+[2025-05-18 15:50:14] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 15:50:14] Starting askQuestions with categories
+[2025-05-18 15:50:14] Processing category: Wait… are we talking about an Anime
+[2025-05-18 15:50:14] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 15:50:16] User answered: yes
+[2025-05-18 15:50:16] User selected category: Wait… are we talking about an Anime
+[2025-05-18 15:51:08] Character identified: Naruto
+[2025-05-18 15:51:16] Play again input: 'yes'
+[2025-05-18 15:51:16] Player chose to play again
+[2025-05-18 15:51:16] Asking questions to identify character
+[2025-05-18 15:51:16] Starting askQuestions with categories
+[2025-05-18 15:51:16] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:51:16] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:51:18] User answered: no
+[2025-05-18 15:51:18] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:51:18] Starting askQuestions with categories
+[2025-05-18 15:51:18] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:51:18] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:51:19] User answered: no
+[2025-05-18 15:51:19] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 15:51:19] Starting askQuestions with categories
+[2025-05-18 15:51:19] Processing category: Let me guess… is it an Instructor
+[2025-05-18 15:51:19] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 15:51:20] User answered: no
+[2025-05-18 15:51:20] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 15:51:20] Starting askQuestions with categories
+[2025-05-18 15:51:20] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 15:51:20] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 15:51:22] User answered: no
+[2025-05-18 15:51:22] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 15:51:22] Starting askQuestions with categories
+[2025-05-18 15:51:22] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:51:22] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:51:24] User answered: no
+[2025-05-18 15:51:24] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 15:51:24] Starting askQuestions with categories
+[2025-05-18 15:51:24] Processing category: Wait… are we talking about an Anime
+[2025-05-18 15:51:24] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 15:51:26] User answered: yes
+[2025-05-18 15:51:26] User selected category: Wait… are we talking about an Anime
+[2025-05-18 15:52:32] Character identified: Luffy
+[2025-05-18 15:53:40] Play again input: 'yes'
+[2025-05-18 15:53:40] Player chose to play again
+[2025-05-18 15:53:40] Asking questions to identify character
+[2025-05-18 15:53:40] Starting askQuestions with categories
+[2025-05-18 15:53:40] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:53:40] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:53:41] User answered: no
+[2025-05-18 15:53:41] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:53:41] Starting askQuestions with categories
+[2025-05-18 15:53:41] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:53:41] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:53:42] User answered: no
+[2025-05-18 15:53:42] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 15:53:42] Starting askQuestions with categories
+[2025-05-18 15:53:42] Processing category: Let me guess… is it an Instructor
+[2025-05-18 15:53:42] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 15:53:44] User answered: no
+[2025-05-18 15:53:44] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 15:53:44] Starting askQuestions with categories
+[2025-05-18 15:53:44] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 15:53:44] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 15:53:45] User answered: no
+[2025-05-18 15:53:45] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 15:53:45] Starting askQuestions with categories
+[2025-05-18 15:53:45] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:53:45] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:53:50] User answered: no
+[2025-05-18 15:53:50] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 15:53:50] Starting askQuestions with categories
+[2025-05-18 15:53:50] Processing category: Wait… are we talking about an Anime
+[2025-05-18 15:53:50] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 15:53:53] User answered: yes
+[2025-05-18 15:53:53] User selected category: Wait… are we talking about an Anime
+[2025-05-18 15:54:52] Character identified: Levi Ackerman
+[2025-05-18 15:55:46] Play again input: 'yes'
+[2025-05-18 15:55:46] Player chose to play again
+[2025-05-18 15:55:46] Asking questions to identify character
+[2025-05-18 15:55:46] Starting askQuestions with categories
+[2025-05-18 15:55:46] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:55:46] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:55:47] User answered: no
+[2025-05-18 15:55:47] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:55:47] Starting askQuestions with categories
+[2025-05-18 15:55:47] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:55:47] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:55:48] User answered: no
+[2025-05-18 15:55:48] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 15:55:48] Starting askQuestions with categories
+[2025-05-18 15:55:48] Processing category: Let me guess… is it an Instructor
+[2025-05-18 15:55:48] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 15:55:49] User answered: no
+[2025-05-18 15:55:49] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 15:55:49] Starting askQuestions with categories
+[2025-05-18 15:55:49] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 15:55:49] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 15:55:51] User answered: no
+[2025-05-18 15:55:51] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 15:55:51] Starting askQuestions with categories
+[2025-05-18 15:55:51] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:55:51] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:55:53] User answered: no
+[2025-05-18 15:55:53] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 15:55:53] Starting askQuestions with categories
+[2025-05-18 15:55:53] Processing category: Wait… are we talking about an Anime
+[2025-05-18 15:55:53] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 15:55:55] User answered: yes
+[2025-05-18 15:55:55] User selected category: Wait… are we talking about an Anime
+[2025-05-18 15:56:02] Character identified: Sasuke
+[2025-05-18 15:57:16] Play again input: 'yes'
+[2025-05-18 15:57:16] Player chose to play again
+[2025-05-18 15:57:16] Asking questions to identify character
+[2025-05-18 15:57:16] Starting askQuestions with categories
+[2025-05-18 15:57:16] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 15:57:16] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 15:57:18] User answered: no
+[2025-05-18 15:57:18] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 15:57:18] Starting askQuestions with categories
+[2025-05-18 15:57:18] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:57:18] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 15:57:18] User answered: no
+[2025-05-18 15:57:18] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 15:57:18] Starting askQuestions with categories
+[2025-05-18 15:57:18] Processing category: Let me guess… is it an Instructor
+[2025-05-18 15:57:18] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 15:57:19] User answered: no
+[2025-05-18 15:57:19] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 15:57:19] Starting askQuestions with categories
+[2025-05-18 15:57:19] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 15:57:19] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 15:57:21] User answered: no
+[2025-05-18 15:57:21] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 15:57:21] Starting askQuestions with categories
+[2025-05-18 15:57:21] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:57:21] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 15:57:23] User answered: no
+[2025-05-18 15:57:23] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 15:57:23] Starting askQuestions with categories
+[2025-05-18 15:57:23] Processing category: Wait… are we talking about an Anime
+[2025-05-18 15:57:23] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 15:57:27] User answered: yes
+[2025-05-18 15:57:27] User selected category: Wait… are we talking about an Anime
+[2025-05-18 15:57:33] Character identified: Sasuke
+[2025-05-18 16:06:18] Play again input: 'yes'
+[2025-05-18 16:06:18] Player chose to play again
+[2025-05-18 16:06:18] Asking questions to identify character
+[2025-05-18 16:06:18] Starting askQuestions with categories
+[2025-05-18 16:06:18] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 16:06:18] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 16:06:21] User answered: no
+[2025-05-18 16:06:21] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 16:06:21] Starting askQuestions with categories
+[2025-05-18 16:06:21] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 16:06:21] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 16:06:22] User answered: no
+[2025-05-18 16:06:22] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 16:06:22] Starting askQuestions with categories
+[2025-05-18 16:06:22] Processing category: Let me guess… is it an Instructor
+[2025-05-18 16:06:22] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 16:06:23] User answered: no
+[2025-05-18 16:06:23] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 16:06:23] Starting askQuestions with categories
+[2025-05-18 16:06:23] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 16:06:23] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 16:06:24] User answered: no
+[2025-05-18 16:06:24] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 16:06:24] Starting askQuestions with categories
+[2025-05-18 16:06:24] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 16:06:24] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 16:06:27] User answered: no
+[2025-05-18 16:06:27] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 16:06:27] Starting askQuestions with categories
+[2025-05-18 16:06:27] Processing category: Wait… are we talking about an Anime
+[2025-05-18 16:06:27] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 16:06:29] User answered: yes
+[2025-05-18 16:06:29] User selected category: Wait… are we talking about an Anime
+[2025-05-18 16:06:58] Character identified: Levi Ackerman
+[2025-05-18 16:07:24] Play again input: 'yes'
+[2025-05-18 16:07:24] Player chose to play again
+[2025-05-18 16:07:24] Asking questions to identify character
+[2025-05-18 16:07:24] Starting askQuestions with categories
+[2025-05-18 16:07:24] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 16:07:24] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 16:07:27] User answered: no
+[2025-05-18 16:07:27] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 16:07:27] Starting askQuestions with categories
+[2025-05-18 16:07:27] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 16:07:27] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 16:07:32] User answered: no
+[2025-05-18 16:07:32] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 16:07:32] Starting askQuestions with categories
+[2025-05-18 16:07:32] Processing category: Let me guess… is it an Instructor
+[2025-05-18 16:07:32] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 16:07:35] User answered: no
+[2025-05-18 16:07:35] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 16:07:35] Starting askQuestions with categories
+[2025-05-18 16:07:35] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 16:07:35] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 16:07:36] User answered: no
+[2025-05-18 16:07:36] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 16:07:36] Starting askQuestions with categories
+[2025-05-18 16:07:36] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 16:07:36] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 16:07:38] User answered: no
+[2025-05-18 16:07:38] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 16:07:38] Starting askQuestions with categories
+[2025-05-18 16:07:38] Processing category: Wait… are we talking about an Anime
+[2025-05-18 16:07:38] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 16:07:39] User answered: no
+[2025-05-18 16:07:39] User rejected category: Wait… are we talking about an Anime, moving to next
+[2025-05-18 16:07:39] Starting askQuestions with categories
+[2025-05-18 16:07:39] Processing category: Just a wild guess… is it a Foreign Actor
+[2025-05-18 16:07:39] Asking about category: Just a wild guess… is it a Foreign Actor
+[2025-05-18 16:07:42] User answered: yes
+[2025-05-18 16:07:42] User selected category: Just a wild guess… is it a Foreign Actor
+[2025-05-18 16:07:55] Character identified: Will Smith
+[2025-05-18 16:08:06] Play again input: 'yes'
+[2025-05-18 16:08:06] Player chose to play again
+[2025-05-18 16:08:06] Asking questions to identify character
+[2025-05-18 16:08:06] Starting askQuestions with categories
+[2025-05-18 16:08:06] Processing category: Are you thinking about an Arab Actor
+[2025-05-18 16:08:06] Asking about category: Are you thinking about an Arab Actor
+[2025-05-18 16:08:07] User answered: o
+[2025-05-18 16:08:09] User answered: no
+[2025-05-18 16:08:09] User rejected category: Are you thinking about an Arab Actor, moving to next
+[2025-05-18 16:08:09] Starting askQuestions with categories
+[2025-05-18 16:08:09] Processing category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 16:08:09] Asking about category: Hmm… it's not an arab actor could it be a Singer
+[2025-05-18 16:08:10] User answered: no
+[2025-05-18 16:08:10] User rejected category: Hmm… it's not an arab actor could it be a Singer, moving to next
+[2025-05-18 16:08:10] Starting askQuestions with categories
+[2025-05-18 16:08:10] Processing category: Let me guess… is it an Instructor
+[2025-05-18 16:08:10] Asking about category: Let me guess… is it an Instructor
+[2025-05-18 16:08:11] User answered: no
+[2025-05-18 16:08:11] User rejected category: Let me guess… is it an Instructor, moving to next
+[2025-05-18 16:08:11] Starting askQuestions with categories
+[2025-05-18 16:08:11] Processing category: Let’s see … maybe a Football Player
+[2025-05-18 16:08:11] Asking about category: Let’s see … maybe a Football Player
+[2025-05-18 16:08:13] User answered: no
+[2025-05-18 16:08:13] User rejected category: Let’s see … maybe a Football Player, moving to next
+[2025-05-18 16:08:13] Starting askQuestions with categories
+[2025-05-18 16:08:13] Processing category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 16:08:13] Asking about category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon
+[2025-05-18 16:08:14] User answered: no
+[2025-05-18 16:08:14] User rejected category: okk, it is not a footballer I’ve got a feeling it’s a Cartoon, moving to next
+[2025-05-18 16:08:14] Starting askQuestions with categories
+[2025-05-18 16:08:14] Processing category: Wait… are we talking about an Anime
+[2025-05-18 16:08:14] Asking about category: Wait… are we talking about an Anime
+[2025-05-18 16:08:15] User answered: no
+[2025-05-18 16:08:15] User rejected category: Wait… are we talking about an Anime, moving to next
+[2025-05-18 16:08:15] Starting askQuestions with categories
+[2025-05-18 16:08:15] Processing category: Just a wild guess… is it a Foreign Actor
+[2025-05-18 16:08:15] Asking about category: Just a wild guess… is it a Foreign Actor
+[2025-05-18 16:08:18] User answered: yes
+[2025-05-18 16:08:18] User selected category: Just a wild guess… is it a Foreign Actor
+[2025-05-18 16:09:31] Character identified: Leonardo DiCaprio
+[2025-05-18 16:10:34] Play again input: 'no'
+[2025-05-18 16:10:34] Player declined to play again
+[2025-05-18 16:10:44] Received user input: 'how are you?'
+[2025-05-18 16:10:44] Generating response for user input
+[2025-05-18 16:10:44] generateResponse called with query: 'how are you?'
+[2025-05-18 16:10:44] Parsing input: 'how are you?'
+[2025-05-18 16:10:44] Parsed into: List(how, are, you?)
+[2025-05-18 16:10:44] handleUserInput called with: List(how, are, you?)
+[2025-05-18 16:10:44] No pattern matched, using default response
+[2025-05-18 16:10:46] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 16:10:46] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 16:10:50] Received user input: 'how are you'
+[2025-05-18 16:10:50] Generating response for user input
+[2025-05-18 16:10:50] generateResponse called with query: 'how are you'
+[2025-05-18 16:10:50] Parsing input: 'how are you'
+[2025-05-18 16:10:50] Parsed into: List(how, are, you)
+[2025-05-18 16:10:50] handleUserInput called with: List(how, are, you)
+[2025-05-18 16:10:50] Matched 'how are you' pattern
+[2025-05-18 16:10:52] Response generated: 'I'm doing great, thanks! How about you ?', startGame: false
+[2025-05-18 16:10:52] Response generated: 'I'm doing great, thanks! How about you ?', startGame=false
+[2025-05-18 16:12:12] Received user input: 'i'm good , thanks .'
+[2025-05-18 16:12:12] Generating response for user input
+[2025-05-18 16:12:12] generateResponse called with query: 'i'm good , thanks .'
+[2025-05-18 16:12:12] Parsing input: 'i'm good , thanks .'
+[2025-05-18 16:12:12] Parsed into: List(i'm, good, ,, thanks, .)
+[2025-05-18 16:12:12] handleUserInput called with: List(i'm, good, ,, thanks, .)
+[2025-05-18 16:12:12] Matched thanks pattern
+[2025-05-18 16:12:14] Response generated: 'You're welcome ! Let me know if you need anything else.', startGame: false
+[2025-05-18 16:12:14] Response generated: 'You're welcome ! Let me know if you need anything else.', startGame=false
+[2025-05-18 16:12:46] Received user input: 'what are you thinking about'
+[2025-05-18 16:12:46] Generating response for user input
+[2025-05-18 16:12:46] generateResponse called with query: 'what are you thinking about'
+[2025-05-18 16:12:46] Parsing input: 'what are you thinking about'
+[2025-05-18 16:12:46] Parsed into: List(what, are, you, thinking, about)
+[2025-05-18 16:12:46] handleUserInput called with: List(what, are, you, thinking, about)
+[2025-05-18 16:12:46] No pattern matched, using default response
+[2025-05-18 16:12:47] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 16:12:47] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 16:12:56] Received user input: 'what are you doing'
+[2025-05-18 16:12:56] Generating response for user input
+[2025-05-18 16:12:56] generateResponse called with query: 'what are you doing'
+[2025-05-18 16:12:56] Parsing input: 'what are you doing'
+[2025-05-18 16:12:56] Parsed into: List(what, are, you, doing)
+[2025-05-18 16:12:56] handleUserInput called with: List(what, are, you, doing)
+[2025-05-18 16:12:56] No pattern matched, using default response
+[2025-05-18 16:12:57] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 16:12:57] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 16:15:46] Received user input: 'help me'
+[2025-05-18 16:15:46] Generating response for user input
+[2025-05-18 16:15:46] generateResponse called with query: 'help me'
+[2025-05-18 16:15:46] Parsing input: 'help me'
+[2025-05-18 16:15:46] Parsed into: List(help, me)
+[2025-05-18 16:15:46] handleUserInput called with: List(help, me)
+[2025-05-18 16:15:46] Matched help pattern
+[2025-05-18 16:15:47] Response generated: 'I can help you with the 'Guess Who I Am' game! You can either play a guessing game where I try to guess what you're thinking, or take a quiz where you answer my questions. Just type 'quiz' or 'guess' to get started!', startGame: false
+[2025-05-18 16:15:47] Response generated: 'I can help you with the 'Guess Who I Am' game! You can either play a guessing game where I try to guess what you're thinking, or take a quiz where you answer my questions. Just type 'quiz' or 'guess' to get started!', startGame=false
+[2025-05-18 16:15:58] Received user input: 'im dying'
+[2025-05-18 16:15:58] Generating response for user input
+[2025-05-18 16:15:58] generateResponse called with query: 'im dying'
+[2025-05-18 16:15:58] Parsing input: 'im dying'
+[2025-05-18 16:15:58] Parsed into: List(im, dying)
+[2025-05-18 16:15:58] handleUserInput called with: List(im, dying)
+[2025-05-18 16:15:58] No pattern matched, using default response
+[2025-05-18 16:15:59] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 16:15:59] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 16:16:10] Received user input: 'okok'
+[2025-05-18 16:16:10] Generating response for user input
+[2025-05-18 16:16:10] generateResponse called with query: 'okok'
+[2025-05-18 16:16:10] Parsing input: 'okok'
+[2025-05-18 16:16:10] Parsed into: List(okok)
+[2025-05-18 16:16:10] handleUserInput called with: List(okok)
+[2025-05-18 16:16:10] No pattern matched, using default response
+[2025-05-18 16:16:11] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 16:16:11] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 16:16:33] Received user input: 'are you a male or a female'
+[2025-05-18 16:16:33] Generating response for user input
+[2025-05-18 16:16:33] generateResponse called with query: 'are you a male or a female'
+[2025-05-18 16:16:33] Parsing input: 'are you a male or a female'
+[2025-05-18 16:16:33] Parsed into: List(are, you, a, male, or, a, female)
+[2025-05-18 16:16:33] handleUserInput called with: List(are, you, a, male, or, a, female)
+[2025-05-18 16:16:33] No pattern matched, using default response
+[2025-05-18 16:16:34] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 16:16:34] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 16:20:39] Received user input: 'song'
+[2025-05-18 16:20:39] Generating response for user input
+[2025-05-18 16:20:39] generateResponse called with query: 'song'
+[2025-05-18 16:20:39] Parsing input: 'song'
+[2025-05-18 16:20:39] Parsed into: List(song)
+[2025-05-18 16:20:39] handleUserInput called with: List(song)
+[2025-05-18 16:20:39] No pattern matched, using default response
+[2025-05-18 16:20:40] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 16:20:40] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 16:20:44] Received user input: 'sing'
+[2025-05-18 16:20:44] Generating response for user input
+[2025-05-18 16:20:44] generateResponse called with query: 'sing'
+[2025-05-18 16:20:44] Parsing input: 'sing'
+[2025-05-18 16:20:44] Parsed into: List(sing)
+[2025-05-18 16:20:44] handleUserInput called with: List(sing)
+[2025-05-18 16:20:44] Matched sing pattern
+[2025-05-18 16:20:46] Prepared 8 song links
+[2025-05-18 16:20:46] Response generated: 'I can't really sing, but here are some trending songs you might enjoy:
+Blinding Lights by The Weeknd: https://www.youtube.com/watch?v=4NRXx6U8ABQ
+Stay by The Kid LAROI & Justin Bieber: https://www.youtube.com/watch?v=kTJczUoc26U
+Tula8te - Habeeby Leh: https://youtu.be/MCbM1PwjA5Y?si=fyy5XznUyyAwQvdJ
+Cairokee - Costa Rica: https://www.youtube.com/watch?v=JwCmC0Vl9gA
+Hamza Namira - Reyah El Hayah: https://www.youtube.com/watch?v=V2W7IuoyH4g
+Amr Diab - Helwa El Ayam: https://youtu.be/VizbOHL69s0?si=As2LCW-mDFtqnFaj
+Sherine - Hobbo Ganna: https://www.youtube.com/watch?v=1hT6Z5HEUpQ
+Elissa - Hanghani Kaman W Kaman: https://www.youtube.com/watch?v=ihF2HMIYX04', startGame: false
+[2025-05-18 16:20:46] Response generated: 'I can't really sing, but here are some trending songs you might enjoy:
+Blinding Lights by The Weeknd: https://www.youtube.com/watch?v=4NRXx6U8ABQ
+Stay by The Kid LAROI & Justin Bieber: https://www.youtube.com/watch?v=kTJczUoc26U
+Tula8te - Habeeby Leh: https://youtu.be/MCbM1PwjA5Y?si=fyy5XznUyyAwQvdJ
+Cairokee - Costa Rica: https://www.youtube.com/watch?v=JwCmC0Vl9gA
+Hamza Namira - Reyah El Hayah: https://www.youtube.com/watch?v=V2W7IuoyH4g
+Amr Diab - Helwa El Ayam: https://youtu.be/VizbOHL69s0?si=As2LCW-mDFtqnFaj
+Sherine - Hobbo Ganna: https://www.youtube.com/watch?v=1hT6Z5HEUpQ
+Elissa - Hanghani Kaman W Kaman: https://www.youtube.com/watch?v=ihF2HMIYX04', startGame=false
+[2025-05-18 16:21:11] Received user input: 'sing me a song'
+[2025-05-18 16:21:11] Generating response for user input
+[2025-05-18 16:21:11] generateResponse called with query: 'sing me a song'
+[2025-05-18 16:21:11] Parsing input: 'sing me a song'
+[2025-05-18 16:21:11] Parsed into: List(sing, me, a, song)
+[2025-05-18 16:21:11] handleUserInput called with: List(sing, me, a, song)
+[2025-05-18 16:21:11] Matched sing pattern
+[2025-05-18 16:21:12] Prepared 9 song links
+[2025-05-18 16:21:12] Response generated: 'I can't really sing, but here are some trending songs you might enjoy:
+Blinding Lights by The Weeknd: https://www.youtube.com/watch?v=4NRXx6U8ABQ
+Stay by The Kid LAROI & Justin Bieber: https://www.youtube.com/watch?v=kTJczUoc26U
+Tula8te - Habeeby Leh: https://youtu.be/MCbM1PwjA5Y?si=fyy5XznUyyAwQvdJ
+Cairokee - Costa Rica: https://www.youtube.com/watch?v=JwCmC0Vl9gA
+Hamza Namira - Reyah El Hayah: https://www.youtube.com/watch?v=V2W7IuoyH4g
+Amr Diab - Helwa El Ayam: https://youtu.be/VizbOHL69s0?si=As2LCW-mDFtqnFaj
+Sherine - Hobbo Ganna: https://www.youtube.com/watch?v=1hT6Z5HEUpQ
+Elissa - Hanghani Kaman W Kaman: https://www.youtube.com/watch?v=ihF2HMIYX04
+Billie Eilish - Blue: https://youtu.be/_IjWFq1c5M4?si=10yST6el236jUJc9', startGame: false
+[2025-05-18 16:21:12] Response generated: 'I can't really sing, but here are some trending songs you might enjoy:
+Blinding Lights by The Weeknd: https://www.youtube.com/watch?v=4NRXx6U8ABQ
+Stay by The Kid LAROI & Justin Bieber: https://www.youtube.com/watch?v=kTJczUoc26U
+Tula8te - Habeeby Leh: https://youtu.be/MCbM1PwjA5Y?si=fyy5XznUyyAwQvdJ
+Cairokee - Costa Rica: https://www.youtube.com/watch?v=JwCmC0Vl9gA
+Hamza Namira - Reyah El Hayah: https://www.youtube.com/watch?v=V2W7IuoyH4g
+Amr Diab - Helwa El Ayam: https://youtu.be/VizbOHL69s0?si=As2LCW-mDFtqnFaj
+Sherine - Hobbo Ganna: https://www.youtube.com/watch?v=1hT6Z5HEUpQ
+Elissa - Hanghani Kaman W Kaman: https://www.youtube.com/watch?v=ihF2HMIYX04
+Billie Eilish - Blue: https://youtu.be/_IjWFq1c5M4?si=10yST6el236jUJc9', startGame=false
+[2025-05-18 16:32:51] Received user input: 'thanks!'
+[2025-05-18 16:32:51] Generating response for user input
+[2025-05-18 16:32:51] generateResponse called with query: 'thanks!'
+[2025-05-18 16:32:51] Parsing input: 'thanks!'
+[2025-05-18 16:32:51] Parsed into: List(thanks!)
+[2025-05-18 16:32:51] handleUserInput called with: List(thanks!)
+[2025-05-18 16:32:51] No pattern matched, using default response
+[2025-05-18 16:32:52] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 16:32:52] Response generated: 'Sorry  but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 16:33:05] Received user input: 'thanks'
+[2025-05-18 16:33:05] Generating response for user input
+[2025-05-18 16:33:05] generateResponse called with query: 'thanks'
+[2025-05-18 16:33:05] Parsing input: 'thanks'
+[2025-05-18 16:33:05] Parsed into: List(thanks)
+[2025-05-18 16:33:05] handleUserInput called with: List(thanks)
+[2025-05-18 16:33:05] Matched thanks pattern
+[2025-05-18 16:33:06] Response generated: 'You're welcome ! Let me know if you need anything else.', startGame: false
+[2025-05-18 16:33:06] Response generated: 'You're welcome ! Let me know if you need anything else.', startGame=false
+[2025-05-18 17:10:36] Received user input: 'hi'
+[2025-05-18 17:10:36] Generating response for user input
+[2025-05-18 17:10:36] generateResponse called with query: 'hi'
+[2025-05-18 17:10:36] Parsing input: 'hi'
+[2025-05-18 17:10:36] Parsed into: List(hi)
+[2025-05-18 17:10:36] handleUserInput called with: List(hi)
+[2025-05-18 17:10:36] Matched greeting pattern
+[2025-05-18 17:10:37] Response generated: 'Hello Some(hamoody)! How can I help you today?', startGame: false
+[2025-05-18 17:10:37] Response generated: 'Hello Some(hamoody)! How can I help you today?', startGame=false
+[2025-05-18 17:47:04] Received user input: 'hello'
+[2025-05-18 17:47:04] Generating response for user input
+[2025-05-18 17:47:04] generateResponse called with query: 'hello'
+[2025-05-18 17:47:04] Parsing input: 'hello'
+[2025-05-18 17:47:04] Parsed into: List(hello)
+[2025-05-18 17:47:04] handleUserInput called with: List(hello)
+[2025-05-18 17:47:04] Matched greeting pattern
+[2025-05-18 17:47:06] Response generated: 'Hello Some(hamoody)! How can I help you today?', startGame: false
+[2025-05-18 17:47:06] Response generated: 'Hello Some(hamoody)! How can I help you today?', startGame=false
+[2025-05-18 17:47:13] Received user input: 'features'
+[2025-05-18 17:47:13] Generating response for user input
+[2025-05-18 17:47:13] generateResponse called with query: 'features'
+[2025-05-18 17:47:13] Parsing input: 'features'
+[2025-05-18 17:47:13] Parsed into: List(features)
+[2025-05-18 17:47:13] handleUserInput called with: List(features)
+[2025-05-18 17:47:13] Matched features pattern
+[2025-05-18 17:47:14] Response generated: '
+          ===================================
+          🤖 FEATURES
+          ===================================
+          🎲 Guessing Game
+          • I try to guess what you're thinking
+          ===================================
+          ❓ Fun Quiz
+          • You answer my playful questions
+          ===================================
+          ', startGame: false
+[2025-05-18 17:47:14] Response generated: '
+          ===================================
+          🤖 FEATURES
+          ===================================
+          🎲 Guessing Game
+          • I try to guess what you're thinking
+          ===================================
+          ❓ Fun Quiz
+          • You answer my playful questions
+          ===================================
+          ', startGame=false
+[2025-05-18 17:47:37] Received user input: 'great'
+[2025-05-18 17:47:37] Generating response for user input
+[2025-05-18 17:47:37] generateResponse called with query: 'great'
+[2025-05-18 17:47:37] Parsing input: 'great'
+[2025-05-18 17:47:37] Parsed into: List(great)
+[2025-05-18 17:47:37] handleUserInput called with: List(great)
+[2025-05-18 17:47:37] Matched good/great pattern
+[2025-05-18 17:47:38] Response generated: 'I'm glad to hear you're doing well!', startGame: false
+[2025-05-18 17:47:38] Response generated: 'I'm glad to hear you're doing well!', startGame=false
+[2025-05-18 17:47:49] Received user input: 'im good'
+[2025-05-18 17:47:49] Generating response for user input
+[2025-05-18 17:47:49] generateResponse called with query: 'im good'
+[2025-05-18 17:47:49] Parsing input: 'im good'
+[2025-05-18 17:47:49] Parsed into: List(im, good)
+[2025-05-18 17:47:49] handleUserInput called with: List(im, good)
+[2025-05-18 17:47:49] Matched good/great pattern
+[2025-05-18 17:47:50] Response generated: 'I'm glad to hear you're doing well!', startGame: false
+[2025-05-18 17:47:50] Response generated: 'I'm glad to hear you're doing well!', startGame=false
+[2025-05-18 17:47:53] Received user input: 'wow'
+[2025-05-18 17:47:53] Generating response for user input
+[2025-05-18 17:47:53] generateResponse called with query: 'wow'
+[2025-05-18 17:47:53] Parsing input: 'wow'
+[2025-05-18 17:47:53] Parsed into: List(wow)
+[2025-05-18 17:47:53] handleUserInput called with: List(wow)
+[2025-05-18 17:47:53] No pattern matched, using default response
+[2025-05-18 17:47:54] Response generated: 'Sorry Some(hamoody) but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 17:47:54] Response generated: 'Sorry Some(hamoody) but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 19:56:52] Received user input: 'features'
+[2025-05-18 19:56:52] Generating response for user input
+[2025-05-18 19:56:52] generateResponse called with query: 'features'
+[2025-05-18 19:56:52] Parsing input: 'features'
+[2025-05-18 19:56:52] Parsed into: List(features)
+[2025-05-18 19:56:52] handleUserInput called with: List(features)
+[2025-05-18 19:56:52] Matched features pattern
+[2025-05-18 19:56:54] Response generated: '
+          ═══════════════════════════════════
+          🤖 FEATURES
+          ═══════════════════════════════════
+          🎲 Guessing Game
+          • I try to guess what you're thinking
+          ═══════════════════════════════════
+          ❓ Fun Quiz
+          • You answer my playful questions
+          ═══════════════════════════════════
+          ', startGame: false
+[2025-05-18 19:56:54] Response generated: '
+          ═══════════════════════════════════
+          🤖 FEATURES
+          ═══════════════════════════════════
+          🎲 Guessing Game
+          • I try to guess what you're thinking
+          ═══════════════════════════════════
+          ❓ Fun Quiz
+          • You answer my playful questions
+          ═══════════════════════════════════
+          ', startGame=false
+[2025-05-18 19:59:47] Received user input: 'logs'
+[2025-05-18 19:59:47] Generating response for user input
+[2025-05-18 19:59:47] generateResponse called with query: 'logs'
+[2025-05-18 19:59:47] Parsing input: 'logs'
+[2025-05-18 19:59:47] Parsed into: List(logs)
+[2025-05-18 19:59:47] handleUserInput called with: List(logs)
+[2025-05-18 19:59:47] No pattern matched, using default response
+[2025-05-18 19:59:49] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-18 19:59:49] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-18 19:59:52] Received user input: 'log'
+[2025-05-18 19:59:52] Generating response for user input
+[2025-05-18 19:59:52] generateResponse called with query: 'log'
+[2025-05-18 19:59:52] Parsing input: 'log'
+[2025-05-18 19:59:52] Parsed into: List(log)
+[2025-05-18 19:59:52] handleUserInput called with: List(log)
+[2025-05-18 19:59:52] Viewing logs
+[2025-05-18 19:59:53] Viewing log history for user: hamoody
+[2025-05-18 20:01:28] Response generated: 'let's view your logs!', startGame: false
+[2025-05-18 20:01:28] Response generated: 'let's view your logs!', startGame=false
+[2025-05-18 20:01:36] Received user input: 'bye'
+[2025-05-18 20:01:36] Exit command detected
+[2025-05-18 20:02:06] Received user input: 'lets play '
+[2025-05-18 20:02:06] Generating response for user input
+[2025-05-18 20:02:06] generateResponse called with query: 'lets play '
+[2025-05-18 20:02:06] Parsing input: 'lets play '
+[2025-05-18 20:02:06] Parsed into: List(lets, play)
+[2025-05-18 20:02:06] handleUserInput called with: List(lets, play)
+[2025-05-18 20:02:06] Matched game pattern
+[2025-05-18 20:02:09] Response generated: 'Alright hamoody! Let's start the game!👻 ', startGame: true
+[2025-05-18 20:02:09] Response generated: 'Alright hamoody! Let's start the game!👻 ', startGame=true
+[2025-05-18 20:02:09] Starting game sequence
+[2025-05-18 20:02:09] Asking questions to identify character
+[2025-05-18 20:02:09] Starting askQuestions with categories
+[2025-05-18 20:02:09] Processing category: an Arab Actor 
+[2025-05-18 20:02:09] Asking about category: an Arab Actor 
+[2025-05-18 20:02:12] User answered: no
+[2025-05-18 20:02:12] User rejected category: an Arab Actor , moving to next
+[2025-05-18 20:02:12] Starting askQuestions with categories
+[2025-05-18 20:02:12] Processing category: a Singer
+[2025-05-18 20:02:12] Asking about category: a Singer
+[2025-05-18 20:02:14] User answered: no
+[2025-05-18 20:02:14] User rejected category: a Singer, moving to next
+[2025-05-18 20:02:14] Starting askQuestions with categories
+[2025-05-18 20:02:14] Processing category: an Instructor  
+[2025-05-18 20:02:14] Asking about category: an Instructor  
+[2025-05-18 20:02:18] User answered: yes
+[2025-05-18 20:02:18] User selected category: an Instructor  
+[2025-05-18 20:02:38] Character identified: Nourhan
+[2025-05-18 20:04:06] Play again input: 'yes'
+[2025-05-18 20:04:06] Player chose to play again
+[2025-05-18 20:04:06] Asking questions to identify character
+[2025-05-18 20:04:06] Starting askQuestions with categories
+[2025-05-18 20:04:06] Processing category: an Arab Actor 
+[2025-05-18 20:04:06] Asking about category: an Arab Actor 
+[2025-05-18 20:04:11] User answered: no
+[2025-05-18 20:04:11] User rejected category: an Arab Actor , moving to next
+[2025-05-18 20:04:11] Starting askQuestions with categories
+[2025-05-18 20:04:11] Processing category: a Singer
+[2025-05-18 20:04:11] Asking about category: a Singer
+[2025-05-18 20:04:12] User answered: no
+[2025-05-18 20:04:12] User rejected category: a Singer, moving to next
+[2025-05-18 20:04:12] Starting askQuestions with categories
+[2025-05-18 20:04:12] Processing category: an Instructor  
+[2025-05-18 20:04:12] Asking about category: an Instructor  
+[2025-05-18 20:04:15] User answered: yes
+[2025-05-18 20:04:15] User selected category: an Instructor  
+[2025-05-18 20:04:24] Character identified: Nourhan
+[2025-05-18 20:05:41] Play again input: 'yes'
+[2025-05-18 20:05:41] Player chose to play again
+[2025-05-18 20:05:41] Asking questions to identify character
+[2025-05-18 20:05:41] Starting askQuestions with categories
+[2025-05-18 20:05:41] Processing category: an Arab Actor 
+[2025-05-18 20:05:41] Asking about category: an Arab Actor 
+[2025-05-18 20:05:43] User answered: no
+[2025-05-18 20:05:43] User rejected category: an Arab Actor , moving to next
+[2025-05-18 20:05:43] Starting askQuestions with categories
+[2025-05-18 20:05:43] Processing category: a Singer
+[2025-05-18 20:05:43] Asking about category: a Singer
+[2025-05-18 20:05:45] User answered: no
+[2025-05-18 20:05:45] User rejected category: a Singer, moving to next
+[2025-05-18 20:05:45] Starting askQuestions with categories
+[2025-05-18 20:05:45] Processing category: an Instructor  
+[2025-05-18 20:05:45] Asking about category: an Instructor  
+[2025-05-18 20:05:46] User answered: yes
+[2025-05-18 20:05:46] User selected category: an Instructor  
+[2025-05-18 20:05:59] Character identified: Basma
+[2025-05-18 20:06:20] Play again input: 'no'
+[2025-05-18 20:06:20] Player declined to play again
+[2025-05-18 20:06:30] Received user input: 'quiz'
+[2025-05-18 20:06:30] Generating response for user input
+[2025-05-18 20:06:30] generateResponse called with query: 'quiz'
+[2025-05-18 20:06:30] Parsing input: 'quiz'
+[2025-05-18 20:06:30] Parsed into: List(quiz)
+[2025-05-18 20:06:30] handleUserInput called with: List(quiz)
+[2025-05-18 20:06:30] Matched quiz pattern
+[2025-05-18 20:06:33] Starting main application loop
+[2025-05-18 20:06:41] Starting quiz for category: Scientists
+[2025-05-18 20:07:05] Quiz cancelled
+[2025-05-19 11:25:23] Received user input: 'play'
+[2025-05-19 11:25:23] Generating response for user input
+[2025-05-19 11:25:23] generateResponse called with query: 'play'
+[2025-05-19 11:25:23] Parsing input: 'play'
+[2025-05-19 11:25:23] Parsed into: List(play)
+[2025-05-19 11:25:23] handleUserInput called with: List(play)
+[2025-05-19 11:25:23] Matched game pattern
+[2025-05-19 11:25:26] Response generated: 'Alright hamoody! Let's start the game!👻 ', startGame: true
+[2025-05-19 11:25:26] Response generated: 'Alright hamoody! Let's start the game!👻 ', startGame=true
+[2025-05-19 11:25:26] Starting game sequence
+[2025-05-19 11:25:26] Asking questions to identify character
+[2025-05-19 11:25:26] Starting askQuestions with categories
+[2025-05-19 11:25:26] Processing category: an Arab Actor 
+[2025-05-19 11:25:26] Asking about category: an Arab Actor 
+[2025-05-19 11:25:28] User answered: yes
+[2025-05-19 11:25:28] User selected category: an Arab Actor 
+[2025-05-19 11:27:24] User chose to quit the game
+[2025-05-19 11:27:26] Received user input: 'play'
+[2025-05-19 11:27:26] Generating response for user input
+[2025-05-19 11:27:26] generateResponse called with query: 'play'
+[2025-05-19 11:27:26] Parsing input: 'play'
+[2025-05-19 11:27:26] Parsed into: List(play)
+[2025-05-19 11:27:26] handleUserInput called with: List(play)
+[2025-05-19 11:27:26] Matched game pattern
+[2025-05-19 11:27:29] Response generated: 'Alright hamoody! Let's start the game!👻 ', startGame: true
+[2025-05-19 11:27:29] Response generated: 'Alright hamoody! Let's start the game!👻 ', startGame=true
+[2025-05-19 11:27:29] Starting game sequence
+[2025-05-19 11:27:29] Asking questions to identify character
+[2025-05-19 11:27:29] Starting askQuestions with categories
+[2025-05-19 11:27:29] Processing category: an Arab Actor 
+[2025-05-19 11:27:29] Asking about category: an Arab Actor 
+[2025-05-19 11:27:32] User answered: yes
+[2025-05-19 11:27:32] User selected category: an Arab Actor 
+[2025-05-19 11:27:41] Character identified: Ahmed Helmy
+[2025-05-19 11:27:41] Play again input: 'zarf tarek'
+[2025-05-19 11:27:41] Player declined to play again
+[2025-05-19 11:27:41] Received user input: 'did the actor star in 'el ostoura'?'
+[2025-05-19 11:27:41] Generating response for user input
+[2025-05-19 11:27:41] generateResponse called with query: 'did the actor star in 'el ostoura'?'
+[2025-05-19 11:27:41] Parsing input: 'did the actor star in 'el ostoura'?'
+[2025-05-19 11:27:41] Parsed into: List(did, the, actor, star, in, 'el, ostoura'?)
+[2025-05-19 11:27:41] handleUserInput called with: List(did, the, actor, star, in, 'el, ostoura'?)
+[2025-05-19 11:27:41] No pattern matched, using default response
+[2025-05-19 11:27:42] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-19 11:27:42] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-19 11:27:42] Received user input: 'el ostoura'
+[2025-05-19 11:27:42] Generating response for user input
+[2025-05-19 11:27:42] generateResponse called with query: 'el ostoura'
+[2025-05-19 11:27:42] Parsing input: 'el ostoura'
+[2025-05-19 11:27:42] Parsed into: List(el, ostoura)
+[2025-05-19 11:27:42] handleUserInput called with: List(el, ostoura)
+[2025-05-19 11:27:42] No pattern matched, using default response
+[2025-05-19 11:27:44] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-19 11:27:44] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-19 11:27:44] Received user input: 'did the actor star in 'el zaeem'?'
+[2025-05-19 11:27:44] Generating response for user input
+[2025-05-19 11:27:44] generateResponse called with query: 'did the actor star in 'el zaeem'?'
+[2025-05-19 11:27:44] Parsing input: 'did the actor star in 'el zaeem'?'
+[2025-05-19 11:27:44] Parsed into: List(did, the, actor, star, in, 'el, zaeem'?)
+[2025-05-19 11:27:44] handleUserInput called with: List(did, the, actor, star, in, 'el, zaeem'?)
+[2025-05-19 11:27:44] No pattern matched, using default response
+[2025-05-19 11:27:46] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-19 11:27:46] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-19 11:27:46] Received user input: 'el zaeem'
+[2025-05-19 11:27:46] Generating response for user input
+[2025-05-19 11:27:46] generateResponse called with query: 'el zaeem'
+[2025-05-19 11:27:46] Parsing input: 'el zaeem'
+[2025-05-19 11:27:46] Parsed into: List(el, zaeem)
+[2025-05-19 11:27:46] handleUserInput called with: List(el, zaeem)
+[2025-05-19 11:27:46] No pattern matched, using default response
+[2025-05-19 11:27:47] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame: false
+[2025-05-19 11:27:47] Response generated: 'Sorry hamoody but I didn't quite understand that. Can you please clarify?', startGame=false
+[2025-05-19 11:27:47] Received user input: 'did the actor star in 'welad rizk'?'
+[2025-05-19 11:27:47] Generating response for user input
+[2025-05-19 11:27:47] generateResponse called with query: 'did the actor star in 'welad rizk'?'
+[2025-05-19 11:27:47] Parsing input: 'did the actor star in 'welad rizk'?'
+[2025-05-19 11:27:47] Parsed into: List(did, the, actor, star, in, 'welad, rizk'?)
+[2025-05-19 11:27:47] handleUserInput called with: List(did, the, actor, star, in, 'welad, rizk'?)
+[2025-05-19 11:27:47] No pattern matched, using default response
+[2025-05-19 11:28:13] Received user input: 'play'
+[2025-05-19 11:28:13] Generating response for user input
+[2025-05-19 11:28:13] generateResponse called with query: 'play'
+[2025-05-19 11:28:13] Parsing input: 'play'
+[2025-05-19 11:28:13] Parsed into: List(play)
+[2025-05-19 11:28:13] handleUserInput called with: List(play)
+[2025-05-19 11:28:13] Matched game pattern
+[2025-05-19 11:28:16] Response generated: 'Alright hamoody! Let's start the game!👻 ', startGame: true
+[2025-05-19 11:28:16] Response generated: 'Alright hamoody! Let's start the game!👻 ', startGame=true
+[2025-05-19 11:28:16] Starting game sequence
+[2025-05-19 11:28:16] Asking questions to identify character
+[2025-05-19 11:28:16] Starting askQuestions with categories
+[2025-05-19 11:28:16] Processing category: an Arab Actor 
+[2025-05-19 11:28:16] Asking about category: an Arab Actor 
+[2025-05-19 11:28:19] User answered: yes
+[2025-05-19 11:28:19] User selected category: an Arab Actor 
+[2025-05-19 11:29:43] Character identified: Adel Imam

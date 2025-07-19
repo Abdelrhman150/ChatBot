@@ -1,0 +1,167 @@
+Is the singer Egyptian?  
+Egyptian
+Is the singer American?  
+American
+Is the singer British?  
+British
+Is the singer Canadian?  
+Canadian
+Is the singer Lebanese?  
+Lebanese
+Is the singer Colombian?  
+Colombian
+Is the singer Barbadian?  
+Barbadian
+Is the singer Moroccan?  
+Moroccan
+Is the singer Syrian?  
+Syrian
+
+Is the singer male?  
+Male
+Is the singer female?  
+Female
+
+Does the singer sing in English?  
+English
+Does the singer sing in Arabic?  
+Arabic
+
+Is the singer bald?  
+Bald
+Is the singer bearded?  
+Beard
+Is the singer redhead?  
+Redhead
+Does the singer have short hair?  
+Short Hair
+Does the singer have curly hair?  
+Curly
+Does the singer have green hair?  
+Green Hair
+Is the singer tattooed?  
+Tattooed
+Is the singer blonde?  
+Blonde
+Is the singer petite?  
+Petite
+Is the singer tall?  
+Tall
+Is the singer elegant?  
+Elegant
+Is the singer casual?  
+Casual
+Is the singer muscular?  
+Muscular
+Is the singer stylish?  
+Stylish
+Is the singer light-skinned?  
+Light-skinned
+Is the singer curvy?  
+Curvy
+
+Did the singer sing Hello?  
+Hello
+Did the singer sing Someone Like You?  
+Someone Like You
+Did the singer sing Tamally Maak?  
+Tamally Maak
+Did the singer sing Leily Nahary?  
+Leily Nahary
+Did the singer sing Blinding Lights?  
+Blinding Lights
+Did the singer sing Starboy?  
+Starboy
+Did the singer sing Ah W Noss?  
+Ah W Noss
+Did the singer sing Yay?  
+Yay
+Did the singer sing Thriller?  
+Thriller
+Did the singer sing Billie Jean?  
+Billie Jean
+Did the singer sing Ayshalak?  
+Ayshalak
+Did the singer sing Betmoun?  
+Betmoun
+Did the singer sing 180 Daraga?  
+180 Daraga
+Did the singer sing Kol Marra?  
+Kol Marra
+Did the singer sing Waka Waka?  
+Waka Waka
+Did the singer sing Hips Don’t Lie?  
+Hips Don’t Lie
+Did the singer sing Diamonds?  
+Diamonds
+Did the singer sing Work?  
+Work
+Did the singer sing Shape of You?  
+Shape of You
+Did the singer sing Perfect?  
+Perfect
+Did the singer sing Omri Kello?  
+Omri Kello
+Did the singer sing Set El Kel?  
+Set El Kel
+Did the singer sing Wrecking Ball?  
+Wrecking Ball
+Did the singer sing Flowers?  
+Flowers
+Did the singer sing Mabrook?  
+Mabrook
+Did the singer sing Ahsan Haga?  
+Ahsan Haga
+Did the singer sing Halo?  
+Halo
+Did the singer sing Single Ladies?  
+Single Ladies
+Did the singer sing Aktar?  
+Aktar
+Did the singer sing Shakhs Tani?  
+Shakhs Tani
+Did the singer sing Shababeek?  
+Shababeek
+Did the singer sing Ahl El Arab?  
+Ahl El Arab
+Did the singer sing Lover?  
+Lover
+Did the singer sing Blank Space?  
+Blank Space
+Did the singer sing Mashaaer?  
+Mashaaer
+Did the singer sing Hobbo Ganna?  
+Hobbo Ganna
+Did the singer sing Youm Wara Youm?  
+Youm Wara Youm
+Did the singer sing Al Bal?  
+Al Bal
+Did the singer sing Bad Guy?  
+Bad Guy
+Did the singer sing Everything I Wanted?  
+Everything I Wanted
+
+Is the singer romantic?  
+Romantic
+Is the singer modern?  
+Modern
+Is the singer classic?  
+Classic
+Is the singer legendary?  
+Legend
+Is the singer bold?  
+Bold
+Is the singer emotional?  
+Emotional
+Is the singer graceful?  
+Graceful
+Is the singer unique?  
+Unique
+Is the singer a dancer?  
+Dance
+Is the singer a guitar player?  
+Guitar
+Is the singer powerful voiced?  
+Powerful Voice
+Is the singer strong voiced?  
+Strong Voice

@@ -1,0 +1,44 @@
+SpongeBob  
+Yellow,Funny,Has Powers,Human,Underwater,Square
+
+Tom  
+Cat,Grey,Silent,Animal,Chases Jerry,Cartoon Classic
+
+Jerry  
+Mouse,Brown,Smart,Animal,Escapes Tom,Cartoon Classic
+
+Elsa  
+Blond Hair,Queen,Has Powers,Human,Frozen,Ice
+
+Dora  
+Explorer,Human,Spanish,Female,Backpack,Child Show
+
+Homer Simpson  
+Male,Yellow,Lazy,Human,Cartoon Dad,Funny
+
+Bart Simpson  
+Male,Yellow,Mischievous,Human,Child,Skateboard
+
+Bugs Bunny  
+Rabbit,Smart,Funny,Animal,Carrot,Classic
+
+Scooby Doo  
+Dog,Funny,Animal,Solves Mysteries,Brown,Cartoon Classic
+
+Patrick Star  
+Pink,Dumb,Funny,Starfish,Underwater,Best Friend
+
+Mickey Mouse  
+Mouse,Iconic,Black,Red Shorts,Human-Like,Classic
+
+Goofy  
+Dog,Funny,Tall,Hat,Silly Voice,Classic
+
+Timmy Turner  
+Boy,Fairy Parents,Magic,Cap,Pink Shirt,Wishes
+
+Phineas  
+Inventor,Triangle Head,Red Hair,Summer,Funny,Smart
+
+Ferb  
+Green Hair,Silent,British,Inventor,Smart,Straight Face

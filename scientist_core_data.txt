@@ -1,0 +1,59 @@
+Albert Einstein
+German, Physics, Theory of Relativity, Nobel Prize, Genius, 1905
+
+Isaac Newton
+British, Mathematics, Gravity, Laws of Motion, Apple, 1687
+
+Marie Curie
+Polish, Chemistry, Radioactivity, Nobel Prize, Female Scientist, 1898
+
+Nikola Tesla
+Serbian, Engineering, AC Current, Inventor, Genius, 1891
+
+Stephen Hawking
+British, Cosmology, Black Holes, Wheelchair, Bestseller Author, 1988
+
+Galileo Galilei
+Italian, Astronomy, Telescope, Earth Rotation, Trial, 1609
+
+Charles Darwin
+British, Biology, Evolution, Natural Selection, Voyage of Beagle, 1859
+
+Alan Turing
+British, Computer Science, Turing Machine, WWII Codebreaker, AI Pioneer, 1936
+
+Rosalind Franklin
+British, Chemistry, DNA Structure, X-ray Crystallography, Female Scientist, 1952
+
+Richard Feynman
+American, Physics, Quantum Electrodynamics, Lectures, Famous Explainer, 1965
+
+Niels Bohr
+Danish, Physics, Atomic Structure, Nobel Prize, Complementarity, 1913
+
+Gregor Mendel
+Austrian, Biology, Genetics, Pea Plants, Inheritance Laws, 1866
+
+Ada Lovelace
+British, Mathematics, First Programmer, Analytical Engine, Visionary, 1842
+
+Carl Sagan
+American, Astronomy, Cosmos Series, Public Educator, SETI, 1980
+
+James Clerk Maxwell
+Scottish, Physics, Electromagnetism, Color Photography, Equations, 1865
+
+Jane Goodall
+British, Primatology, Chimpanzees, Conservation, Field Research, 1960
+
+Dmitri Mendeleev
+Russian, Chemistry, Periodic Table, Prediction, Elements, 1869
+
+Rachel Carson
+American, Biology, Environmentalism, Silent Spring, Activism, 1962
+
+Barbara McClintock
+American, Genetics, Transposons, Nobel Prize, Cytogenetics, 1951
+
+Chien-Shiung Wu
+Chinese-American, Physics, Beta Decay, Manhattan Project, Nobel Overlooked, 1957

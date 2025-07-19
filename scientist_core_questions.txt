@@ -1,0 +1,94 @@
+Is the scientist German?
+German
+Is the scientist British?
+British
+Is the scientist Polish?
+Polish
+Is the scientist Serbian?
+Serbian
+Is the scientist Italian?
+Italian
+Is the scientist American?
+American
+Is the scientist Danish?
+Danish
+Is the scientist Austrian?
+Austrian
+Is the scientist Scottish?
+Scottish
+Is the scientist Russian?
+Russian
+Is the scientist Chinese-American?
+Chinese-American
+
+Did the scientist work in Physics?
+Physics
+Did the scientist work in Mathematics?
+Mathematics
+Did the scientist work in Chemistry?
+Chemistry
+Did the scientist work in Biology?
+Biology
+Did the scientist work in Engineering?
+Engineering
+Did the scientist work in Cosmology?
+Cosmology
+Did the scientist work in Computer Science?
+Computer Science
+Did the scientist work in Primatology?
+Primatology
+Did the scientist work in Astronomy?
+Astronomy
+Did the scientist work in Genetics?
+Genetics
+
+Did the scientist win a Nobel Prize?
+Nobel Prize
+Did the scientist propose the Theory of Relativity?
+Theory of Relativity
+Did the scientist create the Periodic Table?
+Periodic Table
+Did the scientist propose Evolution?
+Evolution
+Did the scientist decode DNA structure?
+DNA Structure
+Did the scientist discover Transposons?
+Transposons
+Did the scientist invent the Analytical Engine?
+Analytical Engine
+Did the scientist explore Beta Decay?
+Beta Decay
+
+Was the scientist a genius?
+Genius
+Was the scientist a visionary?
+Visionary
+Was the scientist a public educator?
+Public Educator
+Was the scientist female?
+Female Scientist
+Was the scientist involved in a famous trial?
+Trial
+Was the scientist overlooked for a Nobel Prize?
+Nobel Overlooked
+Was the scientist a bestseller author?
+Bestseller Author
+Was the scientist known for activism?
+Activism
+
+Is the scientist associated with Gravity?
+Gravity
+Is the scientist associated with Black Holes?
+Black Holes
+Is the scientist associated with Electromagnetism?
+Electromagnetism
+Is the scientist associated with AC Current?
+AC Current
+Is the scientist associated with Natural Selection?
+Natural Selection
+Is the scientist associated with AI?
+AI Pioneer
+Is the scientist known for Color Photography?
+Color Photography
+Is the scientist associated with Environmentalism?
+Environmentalism

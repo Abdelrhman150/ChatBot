@@ -1,0 +1,6 @@
+username:abdo
+password:123
+email:abdo@gmail
+interactions:
+quizResults:
+roleInquiries:

@@ -1,0 +1,111 @@
+Is the actor American?  
+American
+Is the actor British?  
+British
+Is the actor Canadian?  
+Canadian
+Is the actor French?  
+French
+Is the actor Australian?  
+Australian
+Is the actor Egyptian?  
+Egyptian
+
+Did the actor act in action movies?  
+Action
+Did the actor act in drama movies?  
+Drama
+Did the actor act in fantasy movies?  
+Fantasy
+Did the actor act in sci-fi movies?  
+Sci-Fi
+Is the actor known for comedy?  
+Comedy
+
+Is the actor in their 20s?  
+20s
+Is the actor in their 30s?  
+30s
+Is the actor in their 40s?  
+40s
+Is the actor in their 50s?  
+50s
+Is the actor in their 60s?  
+60s
+
+Did the actor act in Inception?  
+Inception
+Did the actor act in Bohemian Rhapsody?  
+Bohemian Rhapsody
+Did the actor act in Johnny English?  
+Johnny English
+Did the actor act in The Da Vinci Code?  
+The Da Vinci Code
+Did the actor act in The Pursuit of Happyness?  
+The Pursuit of Happyness
+Did the actor act in Cast Away?  
+Cast Away
+Did the actor act in Edward Scissorhands?  
+Edward Scissorhands
+Did the actor act in Troy?  
+Troy
+Did the actor act in The Matrix?  
+The Matrix
+Did the actor act in Sherlock Holmes?  
+Sherlock Holmes
+Did the actor act in Extraction?  
+Extraction
+Did the actor act in Free Guy?  
+Free Guy
+Did the actor act in Good Will Hunting?  
+Good Will Hunting
+Did the actor act in Now You See Me 2?  
+Now You See Me 2
+Did the actor act in American Psycho?  
+American Psycho
+
+Is the actor an Oscar Winner?  
+Oscar Winner
+Is the actor an Oscar Nominee?  
+Oscar Nominee
+Is the actor a Classic Actor?  
+Classic Actor
+
+
+Is the actor in Marvel movies?  
+Marvel
+Is the actor associated with Hollywood?  
+Hollywood
+Is the actor a TV Star?  
+TV Star
+
+Did the actor act in Titanic?  
+Titanic
+Did the actor act in Mr. Robot?  
+Mr. Robot
+Did the actor act in Mr. Bean?  
+Mr. Bean
+Did the actor act in Leon?  
+Leon
+Did the actor act in Men in Black?  
+Men in Black
+Did the actor act in Forrest Gump?  
+Forrest Gump
+Did the actor act in Pirates?  
+Pirates
+Did the actor act in Fight Club?  
+Fight Club
+Did the actor act in John Wick?  
+John Wick
+Did the actor act in Iron Man?  
+Iron Man
+Did the actor act in Thor?  
+Thor
+Did the actor act in Deadpool?  
+Deadpool
+Did the actor act in The Martian?  
+The Martian
+Did the actor act in Harry Potter?  
+Harry Potter
+Did the actor act in Batman?  
+Batman

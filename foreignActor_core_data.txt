@@ -1,0 +1,44 @@
+Leonardo DiCaprio  
+American,Titanic,Inception,50s,Drama,Hollywood,Classic Actor
+
+Rami Malek  
+Egyptian,Mr. Robot,Bohemian Rhapsody,40s,Action,TV Star
+
+Rowan Atkinson  
+British,Mr. Bean,Johnny English,70s,Comedy,TV Star
+
+Jean Reno  
+French,Leon,The Da Vinci Code,70s,Action,Classic Actor
+
+Will Smith  
+American,Men in Black,The Pursuit of Happyness,50s,Action,Hollywood
+
+Tom Hanks  
+American,Forrest Gump,Cast Away,60s,Drama,Hollywood
+
+Johnny Depp  
+American,Pirates,Edward Scissorhands,60s,Fantasy,Hollywood
+
+Brad Pitt  
+American,Fight Club,Troy,60s,Drama,Hollywood
+
+Keanu Reeves  
+Canadian,John Wick,The Matrix,50s,Action,Hollywood
+
+Robert Downey Jr.  
+American,Iron Man,Sherlock Holmes,50s,Sci-Fi,Marvel
+
+Chris Hemsworth  
+Australian,Thor,Extraction,40s,Action,Marvel
+
+Ryan Reynolds  
+Canadian,Deadpool,Free Guy,40s,Comedy,Marvel
+
+Matt Damon  
+American,The Martian,Good Will Hunting,50s,Drama,Hollywood
+
+Daniel Radcliffe  
+British,Harry Potter,Now You See Me 2,30s,Fantasy,TV Star
+
+Christian Bale  
+British,Batman,American Psycho,50s,Drama,Classic Actor

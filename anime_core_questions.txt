@@ -1,0 +1,123 @@
+Does the character have powers?
+Has Powers
+Can the character transform?
+Transformation
+Is the character a Titan Shifter?
+Titan Shifter
+Does the character use a notebook?
+Notebook
+Does the character practice alchemy?
+Alchemy
+Is the character strong?
+Strong
+Is the character smart?
+Smart
+Is the character fast?
+Fast
+Does the character use water style?
+Water Style
+Can the character use lightning?
+Lightning
+Does the character have a scar?
+Scar
+Does the character wield a sword?
+Sword
+Does the character use three swords?
+Three Swords
+Does the character have a metal arm?
+Metal Arm
+
+Does the character have blond hair?
+Blond Hair
+Does the character have dark hair?
+Dark Hair
+Does the character have green hair?
+Green Hair
+Does the character have orange hair?
+Orange Hair
+Does the character have white hair?
+White Hair
+Does the character wear a headband?
+Headband
+Does the character wear a straw hat?
+Straw Hat
+Does the character wear a bamboo muzzle?
+Bamboo Muzzle
+Does the character have a green outfit?
+Green Outfit
+
+Is the character funny?
+Funny
+Is the character silent?
+Silent
+Is the character friendly?
+Friendly
+Is the character angry?
+Angry
+Is the character kind?
+Kind
+Is the character dark?
+Dark
+Is the character strategic?
+Strategic
+Is the character romantic?
+Romantic
+Is the character energetic?
+Energetic
+Is the character cute?
+Cute
+Is the character vengeful?
+Revenge
+
+Is the character a ninja?
+Ninja
+Is the character a pirate?
+Pirate
+Is the character a fighter?
+Fighter
+Is the character a hunter?
+Hunter
+Is the character an assassin?
+Assassin
+Is the character a soldier?
+Soldier
+Is the character a demon?
+Demon
+Is the character a half-demon?
+Half-Demon
+Is the character a Shinigami?
+Shinigami
+Is the character a Saiyan?
+Saiyan
+Is the character a brother?
+Brother
+Is the character a sister?
+Sister
+Is the character a teen?
+Teen
+
+Is the character from Naruto?
+Naruto Universe
+Is the character from One Piece?
+One Piece
+Is the character from Bleach?
+Bleach
+Is the character from Death Note?
+Death Note
+Is the character from Dragon Ball?
+Dragon Ball
+Is the character from Attack on Titan?
+Attack on Titan
+Is the character from Demon Slayer?
+Demon Slayer
+Is the character from Japan?
+Japan
+Is the character from the Feudal Era?
+Feudal Era
+
+Does the character use Kamehameha?
+Kamehameha
+Does the character use a strategic notebook?
+Notebook
+Is the character known as Fullmetal?
+Fullmetal

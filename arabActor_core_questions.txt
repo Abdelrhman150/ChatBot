@@ -1,0 +1,87 @@
+Is the actor Egyptian?
+Egyptian
+Is the actor Syrian?
+Syrian
+Is the actor Tunisian?
+Tunisian
+
+Is the actor male?
+Male
+
+Is the actor a comedian?
+Comedy
+Is the actor known for action roles?
+Action
+Is the actor known for drama roles?
+Drama
+Is the actor romantic?
+Romantic
+Is the actor known for sci-fi?
+Sci-Fi
+
+Is the actor a singer?
+Singer
+Is the actor known for voice acting?
+Voice Acting
+Is the actor involved in theater?
+Theater
+Is the actor known for cinema roles?
+Cinema
+Is the actor famous for TV series?
+TV
+Is the actor active in modern media?
+Modern
+Is the actor active on social media?
+Social Media
+Is the actor known for awards?
+Awards
+
+Did the actor star in 'Zarf Tarek'?
+Zarf Tarek
+Did the actor star in 'El Ostoura'?
+El Ostoura
+Did the actor star in 'El Zaeem'?
+El Zaeem
+Did the actor star in 'Welad Rizk'?
+Welad Rizk
+Did the actor star in 'The Blue Elephant'?
+The Blue Elephant
+Did the actor star in 'Al Hayba'?
+Al Hayba
+Did the actor star in '2020'?
+2020
+Did the actor star in 'Omar & Salma'?
+Omar & Salma
+Did the actor star in 'The End'?
+The End
+Did the actor star in 'Sa'eedi in the American University'?
+Sa'eedi in the American University
+Did the actor star in 'Ayza Atgawez'?
+Ayza Atgawez
+Did the actor star in 'Fi Kol Osbou3 Youm Gom3a'?
+Fi Kol Osbou3 Youm Gom3a
+Did the actor star in 'Lahfa'?
+Lahfa
+Did the actor star in 'Hekayet Banat'?
+Hekayet Banat
+Did the actor star in 'Tayea'?
+Tayea
+
+Is the actor popular?
+Popular
+Is the actor stylish?
+Stylish
+Is the actor controversial?
+Controversial
+Is the actor handsome?
+Handsome
+Is the actor short?
+Short
+Does the actor play unique roles?
+Unique Roles
+Is the actor serious in roles?
+Serious Roles
+Is the actor funny?
+Funny
+Is the actor a legend?
+Legend

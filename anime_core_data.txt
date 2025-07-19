@@ -1,0 +1,44 @@
+Naruto
+Ninja, Blond Hair, Has Powers, Naruto Universe, Male, Headband
+
+Sasuke
+Ninja, Dark Hair, Sword, Naruto Universe, Male, Revenge
+
+Goku
+Fighter, Transformation, Dragon Ball, Male, Saiyan, Kamehameha
+
+Luffy
+Pirate, One Piece, Has Powers, Male, Straw Hat, Funny
+
+Zoro
+Sword, One Piece, Fighter, Green Hair, Silent, Three Swords
+
+Ichigo
+Sword, Bleach, Has Powers, Orange Hair, Shinigami, Teen
+
+Light Yagami
+Notebook, Death Note, Smart, Male, Dark, Strategic
+
+Levi Ackerman
+Attack on Titan, Soldier, Short, Strong, Silent, Human, Dark Hair
+
+Gon
+Hunter, Child, Green Outfit, Energetic, Strong, Friendly
+
+Killua
+White Hair, Assassin, Child, Fast, Smart, Lightning
+
+Edward Elric
+Alchemy, Metal Arm, Brother, Smart, Short, Fullmetal
+
+Eren Yeager
+Attack on Titan, Titan Shifter, Angry, Revenge, Dark, Strong
+
+Tanjiro
+Demon Slayer, Kind, Strong, Sister, Water Style, Scar
+
+Nezuko
+Demon, Kind, Female, Bamboo Muzzle, Demon Slayer, Cute
+
+Inuyasha
+Half-Demon, White Hair, Sword, Japan, Feudal Era, Romantic

@@ -1,0 +1,106 @@
+Is the player Portuguese?
+Portuguese
+Is the player Argentinian?
+Argentinian
+Is the player Egyptian?
+Egyptian
+Is the player French?
+French
+Is the player Brazilian?
+Brazilian
+Is the player Croatian?
+Croatian
+Is the player Norwegian?
+Norwegian
+Is the player Polish?
+Polish
+Is the player Swedish?
+Swedish
+Is the player English?
+English
+Is the player Senegalese?
+Senegalese
+Is the player Belgian?
+Belgian
+Is the player Algerian?
+Algerian
+
+Is the player a Forward?
+Forward
+Is the player a striker?
+Striker
+Is the player a playmaker?
+Playmaker
+Is the player a right winger?
+Right Wing
+Is the player a left winger?
+Left Wing
+Is the player a Midfielder?
+Midfielder
+
+Does he wear number 7 with his club?
+7
+Does he wear number 10 with his club?
+10
+Does he wear number 11 with his club?
+11
+Does he wear number 9 with his club?
+9
+Does he wear number 17 with his club?
+17
+Does he wear number 26 with his club?
+26
+
+Has the player won the Ballon d'Or 2008?
+Ballon d'Or 2008
+Has the player won the Ballon d'Or 2023?
+Ballon d'Or 2023
+Has the player won the African Player of the Year 2018?
+African Player of the Year 2018
+Has the player won the FIFA World Cup Winner 2018?
+FIFA World Cup Winner 2018
+Has the player won the Olympic Gold Medal 2016?
+Olympic Gold Medal 2016
+Has the player won the Ballon d'Or 2022?
+Ballon d'Or 2022
+Has the player won the Ballon d'Or 2018?
+Ballon d'Or 2018
+Has the player won the Premier League Golden Boot 2023?
+Premier League Golden Boot 2023
+Has the player won the European Golden Shoe 2021?
+European Golden Shoe 2021
+Has the player won the FIFA Puskás Award 2013?
+FIFA Puskás Award 2013
+Has the player won the England Player of the Year 2021?
+England Player of the Year 2021
+Has the player won the African Player of the Year 2019?
+African Player of the Year 2019
+Has the player won the Premier League Playmaker Award 2023?
+Premier League Playmaker Award 2023
+Has the player won the UEFA Champions League Winner 2022?
+UEFA Champions League Winner 2022
+Has the player won the Premier League Winner 2019?
+Premier League Winner 2019
+
+Does the player play for AlNassr?
+AlNassr
+Does the player play for Miami?
+Miami
+Does the player play for Liverpool?
+Liverpool
+Does the player play for PSG?
+PSG
+Does the player play for Al Ittihad?
+Al Ittihad
+Does the player play for Real Madrid?
+Real Madrid
+Does the player play for Manchester City?
+Manchester City
+Does the player play for Barcelona?
+Barcelona
+Does the player play for Bayern Munich?
+Bayern Munich
+Does the player play for Al Ahli?
+Al Ahli
+Does the player play for AC Milan?
+AC Milan

@@ -1,0 +1,114 @@
+Is the character an animal?  
+Animal
+Is the character human?  
+Human
+Is the character a starfish?  
+Starfish
+Is the character a mouse?  
+Mouse
+Is the character a dog?  
+Dog
+Is the character a cat?  
+Cat
+Is the character a rabbit?  
+Rabbit
+Is the character a boy?  
+Boy
+
+Is the character yellow?  
+Yellow
+Is the character pink?  
+Pink
+Is the character brown?  
+Brown
+Is the character grey?  
+Grey
+Is the character black?  
+Black
+Does the character have blond hair?  
+Blond Hair
+Does the character have green hair?  
+Green Hair
+Does the character have red hair?  
+Red Hair
+
+Does the character have powers?  
+Has Powers
+Does the character use magic?  
+Magic
+Is the character smart?  
+Smart
+Is the character an inventor?  
+Inventor
+
+Is the character funny?  
+Funny
+Is the character lazy?  
+Lazy
+Is the character silent?  
+Silent
+Is the character mischievous?  
+Mischievous
+Is the character dumb?  
+Dumb
+Is the character iconic?  
+Iconic
+
+Does the character have a skateboard?  
+Skateboard
+Does the character have a cap?  
+Cap
+Does the character have a carrot?  
+Carrot
+Does the character have a hat?  
+Hat
+Does the character have a backpack?  
+Backpack
+Does the character wear red shorts?  
+Red Shorts
+Does the character have fairy parents?  
+Fairy Parents
+Does the character have a pink shirt?  
+Pink Shirt
+
+Is the character underwater?  
+Underwater
+Is the character from Frozen?  
+Frozen
+Is the character from a child show?  
+Child Show
+Is the character in the ice world?  
+Ice
+Is the character from summer scenes?  
+Summer
+
+Is the character a queen?  
+Queen
+Is the character an explorer?  
+Explorer
+Is the character a cartoon dad?  
+Cartoon Dad
+Is the character a best friend?  
+Best Friend
+Is the character part of a classic cartoon?  
+Cartoon Classic
+Is the character from classic era?  
+Classic
+Is the character solving mysteries?  
+Solves Mysteries
+Is the character known for chasing Jerry?  
+Chases Jerry
+Is the character known for escaping Tom?  
+Escapes Tom
+Does the character make wishes?  
+Wishes
+Is the character known for a silly voice?  
+Silly Voice
+Is the character known for a triangle head?  
+Triangle Head
+Does the character have a straight face?  
+Straight Face
+Is the character human-like?  
+Human-Like
+Is the character square-shaped?  
+Square
