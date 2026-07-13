@@ -9,7 +9,7 @@ A Maven-based Java project that serves as the backend API for the hospital manag
 ### 2. `JavaApplication10` (Core Application & GUI)
 This module contains the primary logic and desktop graphical user interfaces for the system. It is heavily modularized into packages representing different architectural layers:
 #### `Package1` (Models & Core Entities)
-Contains the core domain models and entities used throughout the application. It employs various design patterns (like Factory and Flyweight) to manage object creation and shared states efficiently.
+Contains the core domain models and entities used throughout the application. It employs Solid principles and various design patterns (like structural, behavioral and creational) to manage object communication and creation efficiently.
 - **Key Entities:** `Admin`, `Doctor`, `Nurse`, `Patient`, `Secretary`, `Department`, `Room`, `Appointment`, `Bill`.
 - **Patterns:** `StaffFactory`, `RoomFactory`, `RoomFlyweightFactory`, `MedicalRecordDecorator`, `PaymentProcessor` (with Adapters for Paypal and Insurance).
 #### `Package2` (Controllers & Services)
